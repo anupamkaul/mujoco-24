@@ -118,7 +118,7 @@ enum {
 // file section of UI
 const mjuiDef defFile[] = {
   {mjITEM_SECTION,   "File",          1, nullptr,                    "AF"},
-  {mjITEM_BUTTON,    "Save xml",      2, nullptr,                    ""},
+  {mjITEM_BUTTON,    "Save xml AK did this",      2, nullptr,                    ""},
   {mjITEM_BUTTON,    "Save mjb",      2, nullptr,                    ""},
   {mjITEM_BUTTON,    "Print model",   2, nullptr,                    "CM"},
   {mjITEM_BUTTON,    "Print data",    2, nullptr,                    "CD"},

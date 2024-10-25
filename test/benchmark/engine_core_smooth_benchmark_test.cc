@@ -24,7 +24,7 @@
 namespace mujoco {
 namespace {
 
-// number of steps to roll out before benhmarking
+// number of steps to roll out before benchmarking
 static const int kNumWarmupSteps = 200;
 
 // number of steps to benchmark

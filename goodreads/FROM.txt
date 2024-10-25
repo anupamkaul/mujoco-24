@@ -1,0 +1,1 @@
+mujoco/model/humanoid/README.md
